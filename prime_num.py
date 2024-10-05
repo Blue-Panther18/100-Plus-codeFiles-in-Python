@@ -1,7 +1,7 @@
 '''
 Print whether an integer is prime or not.
 '''
-num = int(input("Enter the integer: "))
+num = int(input("Enter the to check: "))
 count = 0
 
 if num == 0 or num == 1 or num < 0:
