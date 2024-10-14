@@ -1,0 +1,21 @@
+cikit-Learn (Chapter 5)
+This library provides efficient and clean Python implementations of the most
+important and established machine learning algorithms.
+The PyData world is certainly much larger than these five packages, and is growing
+every day. With this in mind, I make every attempt through these pages to provide
+references to other interesting efforts, projects, and packages that are pushing the
+boundaries of what can be done in Python. Nevertheless, these five are currently fun‐
+damental to much of the work being done in the Python data science space, and I
+expect they will remain important even as the ecosystem continues growing around
+them.
+Using Code Examples
+Supplemental material (code examples, figures, etc.) is available for download at
+https://github.com/jakevdp/PythonDataScienceHandbook. This book is here to help
+you get your job done. In general, if example code is offered with this book, you may
+use it in your programs and documentation. You do not need to contact us for per‐
+mission unless you’re reproducing a significant portion of the code. For example,
+writing a program that uses several chunks of code from this book does not require
+permission. Selling or distributing a CD-ROM of examples from O’Reilly books does
+require permission. Answering a question by citing this book and quoting example
+code does not require permission. Incorporating a significant amount of example
+code from this book into your product’s documentation does require permission.
